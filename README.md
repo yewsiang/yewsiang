@@ -1,12 +1,8 @@
 ## 👨‍🦱 About Me
 
-Knowledge problems excite me! 
+Building in progress! 
 
-Currently thinking about Feeds - current feeds are noisy and full of spam, and users have very little control over their daily information diet.
-How can we give users more **meaningful control** over their feeds?
-Chat with me on @Jason_Ys on Twitter if you're interested.
-
-Currently Senior SWE at [You.com](https://you.com) - working on A/B tests, YouChat and ML. Previously CTO & Co-founder at [Hypotenuse.ai (YC S20)](https://hypotenuse.ai) and an ML researcher at [Stanford AI Labs](https://ai.stanford.edu/), [NUS CVRP Lab](https://www.comp.nus.edu.sg/~leegh/) and [DSO Laboratories (Defence)](https://www.dso.org.sg/).
+Previously: Staff SWE @ [You.com](https://you.com) working on Deep Research | CTO & Co-founder @ [Hypotenuse.ai (YC S20)](https://hypotenuse.ai) | ML Researcher @ [Stanford AI Labs](https://ai.stanford.edu/) + [NUS CVRP Lab](https://www.comp.nus.edu.sg/~leegh/) + [DSO Laboratories (Defence)](https://www.dso.org.sg/)
 
 ## 🚀 Recent Projects
 
